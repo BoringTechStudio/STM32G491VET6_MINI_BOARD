@@ -1,0 +1,60 @@
+================================================================================
+LICENSE
+================================================================================
+
+This directory contains a mixture of two categories of software, each governed
+by different terms.
+
+--------------------------------------------------------------------------------
+1. THIRD-PARTY SOFTWARE (STMicroelectronics / STM32Cube FW_G4 examples)
+--------------------------------------------------------------------------------
+
+All files that carry a copyright header of the form
+"Copyright (c) <year> STMicroelectronics" (including, but not limited to, the
+generated HAL/CMSIS/BSP drivers and the official NUCLEO-G474RE example sources
+in the Core/, Drivers/ and MDK-ARM/ trees) are licensed to you under the terms
+of the BSD-3-Clause license. You may obtain a copy of the BSD-3-Clause at:
+
+    https://opensource.org/licenses/BSD-3-Clause
+
+No claim is made to these third-party files, and they remain under the license
+terms granted by their respective copyright holders.
+
+--------------------------------------------------------------------------------
+2. ORIGINAL / ADDED SOFTWARE (author-modified and author-original files)
+--------------------------------------------------------------------------------
+
+Unless a file is expressly identified in Section 1 above as third-party
+software, all original source code, additions, modifications, board-support
+files, documentation, and configuration created or added by the author for this
+project are protected by copyright law.
+
+ALL RIGHTS RESERVED.
+
+No part of such original and author-added software may be reproduced,
+modified, adapted, published, translated, distributed, sublicensed, sold, or
+used in any form or by any means, electronic or mechanical, including
+photocopying, recording, or by any information storage or retrieval system,
+without the prior express written permission of the author.
+
+This software is provided "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN
+ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
+WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+--------------------------------------------------------------------------------
+APPLICABILITY
+--------------------------------------------------------------------------------
+
+To determine which terms apply to a given file:
+
+  * If the file begins with a "Copyright (c) ... STMicroelectronics" header,
+    BSD-3-Clause terms (Section 1) apply to that file.
+  * If the file contains no third-party copyright header and was written or
+    substantially modified for this project, the proprietary terms (Section 2)
+    apply.
+  * Where a file combines both ST-licensed code and author additions, the ST
+    portions remain BSD-3-Clause and only the author's additions are subject to
+    Section 2.

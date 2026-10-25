@@ -1,0 +1,44 @@
+# ================= Keil MDK-ARM =================
+# Build outputs
+*.axf
+*.o
+*.crf
+*.d
+*.dep
+*.iex
+*.hex
+*.bin
+*.map
+*.lst
+*.lnp
+*.htm
+*.build_log.htm
+*.sct
+*.scvd
+*.dbgconf
+*.bak
+JLinkLog.txt
+JLinkSettings.ini
+
+# Build directories
+Listings/
+Objects/
+Exe/
+DebugConfig/
+RTE/
+
+# Per-user GUI layout (project and options ARE tracked)
+*.uvguix
+*.uvguix.*
+
+# ================= STM32CubeIDE / Eclipse =================
+Debug/
+.settings/
+.cproject
+.project
+
+# ================= OS / editor junk =================
+Thumbs.db
+Desktop.ini
+.DS_Store
+*.log
